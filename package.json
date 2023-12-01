@@ -1,0 +1,24 @@
+{
+  "name": "@syoidesu/tuturuubot",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Tu tu ruu! Telegram bot",
+  "scripts": {
+    "start": "tsx src/main.ts",
+    "test": "tsc",
+    "check": "biome check src",
+    "check:apply": "biome check --apply src"
+  },
+  "dependencies": {
+    "@grammyjs/runner": "^2.0.3",
+    "dotenv": "^16.3.1",
+    "envalid": "^8.0.0",
+    "grammy": "^1.19.2",
+    "tsx": "^4.6.1"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "^1.4.1",
+    "@types/node": "^20.10.1",
+    "typescript": "^5.3.2"
+  }
+}
