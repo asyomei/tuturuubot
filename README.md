@@ -14,6 +14,3 @@ Just write "@yourbotusername" and you'll see audio file
 
 ## Why?
 Because why not?
-
-## Bot instance
-[@tuturuubot](https://t.me/tuturuubot)
